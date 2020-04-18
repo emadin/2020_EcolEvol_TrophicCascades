@@ -1,0 +1,4 @@
+,stat,Df,Deviance,AIC,LRT,Pr..Chi.
+<none>,lat_status_ts,NA,9.48,17.48,NA,NA
+LATITUDE,lat_status_ts,1,21.01,27.01,11.53,0.001
+PART,lat_status_ts,2,16.72,20.72,7.24,0.027

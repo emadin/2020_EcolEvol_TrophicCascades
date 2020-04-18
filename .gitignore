@@ -1,0 +1,9 @@
+# Files to not track in Git
+
+.Rproj.user
+.Rhistory
+.RData
+.dropbox
+.DS_Store
+
+

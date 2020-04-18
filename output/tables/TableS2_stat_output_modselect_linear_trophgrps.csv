@@ -1,0 +1,10 @@
+,stat,Df,Sum.of.Sq,RSS,AIC,F.value,Pr..F.
+<none>,lat_status_pred,NA,NA,226.85,91.11,NA,NA
+LATITUDE,lat_status_pred,1,22.97,249.82,99.14,10.02,0.002
+PART,lat_status_pred,3,23.95,250.8,95.55,3.48,0.019
+<none>1,lat_status_herb,NA,NA,315.99,125.58,NA,NA
+LATITUDE1,lat_status_herb,1,14.37,330.36,128.2,4.5,0.036
+PART1,lat_status_herb,3,39.59,355.58,131.85,4.13,0.008
+<none>2,lat_status_alga,NA,NA,686.4,206.26,NA,NA
+LATITUDE2,lat_status_alga,1,49.56,735.96,211.51,7.15,0.009
+PART2,lat_status_alga,3,48.38,734.78,207.34,2.33,0.079
