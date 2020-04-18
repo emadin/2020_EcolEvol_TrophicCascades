@@ -1,3 +1,8 @@
+## Data and code for Madin et al. (2020) Ecology and Evolution
+
 # Script: analysis.R is self-explanatory. 
 
 # Contact: Elizabeth Madin (emadin@hawaii.edu)
+
+# DOI: 10.5281/zenodo.3756250
+
